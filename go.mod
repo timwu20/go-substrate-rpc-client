@@ -12,8 +12,8 @@ require (
 	github.com/pierrec/xxHash v0.1.5
 	github.com/rs/cors v1.8.2
 	github.com/stretchr/testify v1.7.2
-	github.com/vedhavyas/go-subkey v1.0.4
-	golang.org/x/crypto v0.7.0
+	github.com/vedhavyas/go-subkey v1.0.4-0.20220708014838-349cf3021f51
+	golang.org/x/crypto v0.15.0
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 )
 
@@ -21,8 +21,8 @@ require (
 	github.com/ChainSafe/go-schnorrkel v1.0.0 // indirect
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
 	github.com/cosmos/go-bip39 v1.0.0 // indirect
-	github.com/decred/base58 v1.0.4 // indirect
-	github.com/decred/dcrd/crypto/blake256 v1.0.0 // indirect
+	github.com/decred/base58 v1.0.5 // indirect
+	github.com/decred/dcrd/crypto/blake256 v1.0.1 // indirect
 	github.com/go-ole/go-ole v1.2.1 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/gtank/merlin v0.1.1 // indirect
@@ -33,6 +33,6 @@ require (
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
-	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/sys v0.14.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
